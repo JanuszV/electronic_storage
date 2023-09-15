@@ -5,8 +5,8 @@ Database contains data about type of electronic element, it part number, value i
 User can add new items, add and delete quantity of an element or even delete whole element existance.
 # Python 🐍 - Version: 3.11.5
 # Used libraries 📚
-PyQt5 📊 - Version: 5.15.9
-sqlite3 📰 - Version: 3.41.2
+PyQt5 📊 - Version: 5.15.9, 
+sqlite3 📰 - Version: 3.41.2, 
 pandas 🐼 - Version: 2.1.0
 # Note 📝
 I also created a .bat file that will execute the code from Desktop and Virtual Enviroment in Anaconda so the accesability for this app is higher. 
